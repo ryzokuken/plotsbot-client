@@ -1,0 +1,12 @@
+{
+  "name": "plotsbot-client",
+  "version": "1.0.0",
+  "description": "CLI client for Plotsbot",
+  "main": "index.js",
+  "repository": "github.com/ryzokuken/plotsbot-client",
+  "author": "Ujjwal Sharma <usharma1998@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
